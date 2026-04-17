@@ -1,7 +1,7 @@
 # 📚 Banco de Dados para Livraria
 
 ## 📌 Descrição do Projeto
-Este projeto consiste na modelagem e implementação de um banco de dados para uma livraria, utilizando SQL.
+Este projeto consiste na modelagem e implementação de um banco de dados para uma livraria, desenvolvido de forma independente como prática dos conceitos de SQL.
 
 Foram criadas tabelas com relacionamentos, definidas chaves primárias e estrangeiras, inseridos dados para testes e desenvolvidas consultas SQL para análise das informações.
 
